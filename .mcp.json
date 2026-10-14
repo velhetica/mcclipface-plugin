@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcclipface": {
+      "type": "http",
+      "url": "https://mcclipface.com/mcp"
+    }
+  }
+}

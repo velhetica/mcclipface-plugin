@@ -1,0 +1,10 @@
+{
+  "name": "mcclipface",
+  "version": "2.4.0",
+  "description": "Free coupon and promo code checker for AI shopping assistants. Finds current codes and deals for a store or product.",
+  "author": { "name": "GetClippy LLC", "email": "hello@mcclipface.com", "url": "https://mcclipface.com" },
+  "homepage": "https://mcclipface.com",
+  "license": "LicenseRef-Proprietary",
+  "logo": "assets/logo.png",
+  "keywords": ["coupon", "promo code", "discount code", "deals", "shopping"]
+}
