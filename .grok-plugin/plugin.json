@@ -1,10 +1,10 @@
 {
   "name": "mcclipface",
-  "version": "2.4.0",
-  "description": "Free coupon and promo code checker for AI shopping assistants. Finds current codes and deals for a store or product.",
+  "version": "2.8.0",
+  "description": "Your assistant checks you're getting the best price before you check out. One best pick with its total, codes tested at checkout when it can. 3,000+ codes across 1,000+ stores. Free, no account.",
   "author": { "name": "GetClippy LLC", "email": "hello@mcclipface.com", "url": "https://mcclipface.com" },
   "homepage": "https://mcclipface.com",
   "license": "LicenseRef-Proprietary",
   "logo": "assets/logo.png",
-  "keywords": ["coupon", "promo code", "discount code", "deals", "shopping"]
+  "keywords": ["best price", "price check", "coupon", "promo code", "discount code", "deals", "shopping"]
 }

@@ -2,7 +2,11 @@
 
 <img src="assets/logo.png" width="96" alt="McClipFace">
 
-[McClipFace](https://mcclipface.com) is a free coupon and promo code checker for AI shopping assistants. Ask for a coupon, a deal, or let it check for a code before you buy.
+[McClipFace](https://mcclipface.com): your assistant checks you're getting the best price before you check out.
+
+When you're about to check out, McClipFace helps your assistant check codes, deals and other stores, then give you one best pick with its total next to where you were headed. It tests codes at checkout when it can, and only keeps a code that lowers the total. It draws on 3,000+ codes across 1,000+ stores, is free and needs no account or API key.
+
+McClipFace may earn a commission on links, at no added cost to you. Commission never changes which pick comes first.
 
 This plugin bundles:
 
@@ -19,7 +23,7 @@ From the xAI plugin marketplace in Grok Build, install **mcclipface**. Or add th
 
 ## Privacy
 
-Lookups send only the store or product name and currency, never cart contents or personal data. Sharing code results is off by default. See the [privacy policy](https://mcclipface.com/privacy.html) and [affiliate disclosure](https://mcclipface.com/affiliate-disclosure.html).
+Lookups send only the store or product name, the currency, the skill's version and a random install ID (counted only as a monthly-salted hash), never cart contents or personal data. Sharing code results is off by default. See the [privacy policy](https://mcclipface.com/privacy.html) and [affiliate disclosure](https://mcclipface.com/affiliate-disclosure.html).
 
 Contact: hello@mcclipface.com
 
