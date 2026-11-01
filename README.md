@@ -6,7 +6,7 @@
 
 When you're about to check out, McClipFace helps your assistant check codes, deals and other stores, then give you one best pick with its total next to where you were headed. It tests codes at checkout when it can, and only keeps a code that lowers the total. It draws on 6,000+ codes across 2,000+ stores, is free and needs no account or API key.
 
-McClipFace may earn a commission on links, at no added cost to you. Commission never changes which pick comes first.
+This is an affiliate link and may earn a commission at no extra cost to you. Commission never changes which pick comes first.
 
 This plugin bundles:
 

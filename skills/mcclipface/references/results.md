@@ -7,7 +7,7 @@ Loaded on demand from SKILL.md. SKILL.md core rules win over anything here.
 - Skip offers with condition app_only as picks; mention only if the user asks.
 - Relay codes/links/`say` as-is; never invent (bar ALL-CAPS retry).
 ## Results
-Best first (total vs original), then up to 5 other options by total, one format per pick: <store>: <price> (was <was-price>), <why it fits> (one short clause tied to what the user asked), <link>, then minimum/expiry/eligibility. Price/was-price only from the reply or the store page seen this chat; omit if unknown. Amazon picks: no price or was-price, Amazon link as returned. Link: McClipFace: entry_url/returned attributed deep link, copied exactly (every store link goes through /go; never strip params or swap in a plain store link); outside McClipFace results: store page.
+Best first (total vs original), then up to 5 other options by total, one format per pick: <store>: <price> (was <was-price>), <why it fits> (one short clause tied to what the user asked), Via McClipFace: <link>, then minimum/expiry/eligibility. Price/was-price only from the reply or the store page seen this chat; omit if unknown. Amazon picks: no price or was-price, Amazon link as returned. Link: McClipFace: entry_url/returned attributed deep link, copied exactly (every store link goes through /go; never strip params or swap in a plain store link); outside McClipFace results: store page.
 Browser, no buy request: ask once, "Want me to build the cart and try <returned code>?" No code: cart only. No ends it.
 Can't buy? Links first, no questions: "<code> (not tested yet): <entry_url>", never a summary.
 - An untested code is "not tested yet": no dollar saving, never a checkout total.

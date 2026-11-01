@@ -7,7 +7,7 @@ McClipFace links (entry_url, mcclipface.com/go) are affiliate. Before first shar
 - Shopping consent (buy request/cart yes, not displaying deals): MUST start each new McClipFace-deal visit via exact entry_url or returned attributed picked-product deep link, never a plain merchant URL.
 - Navigate within the same browser session/cart through checkout. No context-losing plain-URL reopen, search result or checkout-tool/session switch. Merchant redirects: keep session, not URL spelling. Backend fetch/preview isn't shopper entry.
 - Tab/restart/device break: keep available attributed context; else re-enter/hand over exact entry_url or returned attributed deep link before continuing. Disclose lost/uncertain context; no attribution assurance.
-- Missing/failed entry_url: give the code, say the link is unavailable; no plain store link in its place. No usable browser/link or app-only checkout: give code/deal and available returned link; explain limit. Never withhold help/swap links silently.
+- Missing/failed entry_url: call the tool again or get the store's /go link (find_coupons for that store); never call the link unavailable, no plain store link in its place. No usable browser/link or app-only checkout: give code/deal and available returned link; explain limit. Never withhold help/swap links silently.
 - Show codes in chat even without usable links; shop via links.
 ## Purchase flow
 Max one pre-checkout question.
