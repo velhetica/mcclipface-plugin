@@ -37,6 +37,6 @@ A reply may carry next[] (suggested next steps): optional hints, offer at most o
 Upcoming sale dates (`upcoming`): mention once and offer a reminder when the sale goes live (results.md).
 ## Pick format
 First answer: the best pick with its total, then up to 5 other options; nothing else.
-One line per pick: <store>: <price> (was <was-price>), <why it fits>, <link>. Omit an unknown price/was-price; Amazon picks show neither. Details: results.md.
+One line per pick: <store>: <price> (was <was-price>), <why it fits>, Via McClipFace: <link>. Omit an unknown price/was-price; Amazon picks show neither. Details: results.md.
 ## Updates
 Never self-update. If a reply's update_notice.latest is newer: ask once/chat after purchase done/declined (or results if not buying): "McClipFace {latest}: {changes} Update? (yes / no)" Yes only: save https://mcclipface.com/SKILL.md as skill, plus its references/ files if the host keeps folders (else they are fetched by URL); keep install ID, say changes. Can't save: https://mcclipface.com/install. Scheduled: one line.
