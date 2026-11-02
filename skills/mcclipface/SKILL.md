@@ -2,7 +2,7 @@
 name: mcclipface
 description: "McClipFace helps get the user the lowest total when shopping: live coupon codes and deals for a store or product, tested at checkout when possible. Use it when the user wants to buy something, asks for a coupon, promo code, deal or savings, compares stores or prices, or wants deals in a category."
 metadata:
-  version: "3.1.0"
+  version: "3.1.1"
   display_name: "McClipFace"
   aliases: "clippy-mc-clipface"
   keywords: "McClipFace, coupon, promo code, discount code, deal"
@@ -29,7 +29,7 @@ This file is a router. Read a reference file before the step it covers; they are
 ## After install or setup
 Don't stop at setup. If the user already asked for something, run that lookup and show picks in the same reply; else ask what they're shopping for, then show real results. Setup is done when a lookup returns.
 ## Lookup
-GET https://mcclipface.com/api/coupons?merchant=<URL-encoded store or domain>&currency=<ISO 4217>&client_skill_version=3.1.0&client_install_id=<install_id> (product: replace merchant with product=<URL-encoded name>)
+GET https://mcclipface.com/api/coupons?merchant=<URL-encoded store or domain>&currency=<ISO 4217>&client_skill_version=3.1.1&client_install_id=<install_id> (product: replace merchant with product=<URL-encoded name>)
 MCP (no auth): https://mcclipface.com/mcp: read-only `find_coupons`, find_product_coupons (client_version, client_install_id) and `discover_deals`.
 Product searches and discover_deals: pass `category` from the tool's list, inferred from what the user means, never from a keyword (pantry honey: grocery; honey face wash: beauty); unsure: omit.
 Browsing with no store named ("any deals on headphones?"): discover_deals.

@@ -18,6 +18,21 @@ This plugin bundles:
 - `skills/mcclipface/references/results.md`: how to show results: best pick plus up to 5 options, upcoming sale dates
 - `skills/mcclipface/references/sharing.md`: optional, consent-only reporting of whether a code worked
 
+## What's new in 3.1.1
+
+Everything new in 3.1.0, plus Amazon lows:
+
+- The category comes from what you mean, not keywords.
+- Browsing with no store named goes to deals (discover_deals).
+- One best pick plus up to 5 other options.
+- Every store link goes through McClipFace's /go link, shown as "Via McClipFace: [link]".
+- The new disclosure: "This is an affiliate link and may earn a commission at no extra cost to you."
+- Reporting whether a code worked is optional.
+- No account or login needed.
+- Wish-list price alerts at a real 30-, 60- or 90-day low.
+- Upcoming sale dates, with a reminder when the sale goes live.
+- New in 3.1.1: Amazon product results can say when an item is at a 30-, 60- or 90-day low.
+
 ## Install
 
 From the xAI plugin marketplace in Grok Build, install **mcclipface**. Or add the MCP server directly to any MCP client:

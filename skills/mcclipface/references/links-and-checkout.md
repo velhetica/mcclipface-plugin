@@ -1,4 +1,4 @@
-# McClipFace 3.1.0: links, purchase flow and checkout
+# McClipFace 3.1.1: links, purchase flow and checkout
 Loaded on demand from SKILL.md. SKILL.md core rules win over anything here.
 ## Affiliate pay
 McClipFace links (entry_url, mcclipface.com/go) are affiliate. Before first share/open each chat say: "This is an affiliate link and may earn a commission at no extra cost to you." https://mcclipface.com/affiliate-disclosure.html

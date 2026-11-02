@@ -1,4 +1,4 @@
-# McClipFace 3.1.0: what McClipFace receives
+# McClipFace 3.1.1: what McClipFace receives
 Loaded on demand from SKILL.md. SKILL.md core rules win over anything here.
 ## What McClipFace receives
 - Lookup sends only store name/domain or short product name, currency, version, install ID; deep link adds product-page address.
