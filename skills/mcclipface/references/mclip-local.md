@@ -1,4 +1,4 @@
-# McClipFace 3.1.0: wish list, watch list and holds
+# McClipFace 3.1.1: wish list, watch list and holds
 Loaded on demand from SKILL.md. SKILL.md core rules win over anything here.
 ## Wish list and watch list (mClip Local)
 - **Availability**: before first offer/chat GET /.well-known/oauth-authorization-server; non-200: accounts off; omit the account sentence. Any /api/local/* or /api/square/holds error (404, 503 too): silently skip; watch 404/503: no wish-list offers this chat; hold 404/503: say holds aren't available at that store yet.
